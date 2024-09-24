@@ -3,7 +3,7 @@
 <h1 align="left">Hey there, I'm <a href="https://www.linkedin.com/in/stuti10/">Shrey Kothari</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
   <a href="https://github.com/s-tuti/project-repo"><img align="right" src="https://i.pinimg.com/564x/97/3c/68/973c68753cda563ba5be1c498aba1d6c.jpg" alt="Project Image" width="200"/></a> - Tech Enthusiast</h1> 
 
-<p align="left">My name is Shrey KOthari and I'm a Computer Science student specializing in Information Technology and Engineering, from MAIT.</p>
+<p align="left">My name is Shrey KOthari and I'm a Computer Science student specializing in Information Technology & Artificial Intelligence and Machine Learning, from MAIT.</p>
 
 <hr>
 
